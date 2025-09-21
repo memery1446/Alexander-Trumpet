@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Harmony Baptist Church Choir</title>
+    <title>Alexander Trumpet</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
     <style>
         * {
@@ -538,7 +538,7 @@
 <body>
 <div class="container">
     <header>
-        <h1>🎵 Harmony Baptist Church Choir</h1>
+        <h1>🎵 Alexander Trumpet</h1>
         <div id="headerNotes">
             <div class="loading">Loading...</div>
         </div>
@@ -548,7 +548,7 @@
         <h2 id="sectionTitle">🎵 Loading...</h2>
 
         <div class="song-order">
-            <h3>Sunday's Song Order:</h3>
+            <h3>Arbans Exercises</h3>
             <ol id="songOrderList">
                 <li class="loading">Loading song order...</li>
             </ol>
@@ -561,8 +561,8 @@
         <!-- Moved playlist section to bottom -->
         <div class="playlist-section">
             <div class="play-all-section">
-                <button class="play-all-btn" onclick="playAllSongs()">🎵 Play All Songs In Order</button>
-                <p class="instructions">Push this button to play through all the songs in order.</p>
+                <button class="play-all-btn" onclick="playAllSongs()">🎵 Play All Excerpts In Order</button>
+                <p class="instructions">Push this button to play through all the excerpts in order.</p>
                 <div class="playlist-controls" id="playlistControls" style="display: none;">
                     <div class="current-song">Now Playing: <span id="currentSongTitle">Loading...</span></div>
                     <audio id="playlistPlayer" controls>
@@ -574,19 +574,19 @@
         </div>
     </div>
 
-    <!-- Suggestion section moved down -->
-    <div class="section">
-        <div class="suggestion-section">
-            <h3>🎤 Suggest Your Favorite Song!</h3>
-            <div class="suggestion-form">
-                <input type="text" id="songSuggestion" class="suggestion-input" placeholder="What's your favorite hymn or song?" maxlength="100">
-                <br>
-                <button class="suggestion-btn" onclick="sendSuggestion()">Send Suggestion</button>
-                <a href="mailto:memery1446@gmail.com?subject=Song Suggestion from Choir Member" class="email-link">📧 Email Mark</a>
-            </div>
-        </div>
-    </div>
-</div>
+<!--    &lt;!&ndash; Suggestion section moved down &ndash;&gt;-->
+<!--    <div class="section">-->
+<!--        <div class="suggestion-section">-->
+<!--            <h3>🎤 Suggest Your Favorite Song!</h3>-->
+<!--            <div class="suggestion-form">-->
+<!--                <input type="text" id="songSuggestion" class="suggestion-input" placeholder="What's your favorite hymn or song?" maxlength="100">-->
+<!--                <br>-->
+<!--                <button class="suggestion-btn" onclick="sendSuggestion()">Send Suggestion</button>-->
+<!--                <a href="mailto:memery1446@gmail.com?subject=Song Suggestion from Choir Member" class="email-link">📧 Email Mark</a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 <!-- PDF Modal -->
 <div id="pdfModal" class="modal">
@@ -879,20 +879,20 @@
         document.getElementById('playlistControls').style.display = 'none';
     }
 
-    function sendSuggestion() {
-        const suggestion = document.getElementById('songSuggestion').value.trim();
-        if (suggestion) {
-            const subject = 'Song Suggestion from Choir Member';
-            const body = `Hi Mark,\n\nI'd like to suggest this song for our choir:\n\n${suggestion}\n\nThanks!\n`;
-            const mailtoLink = `mailto:memery1446@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-            window.location.href = mailtoLink;
-
-            // Clear the input
-            document.getElementById('songSuggestion').value = '';
-        } else {
-            alert('Please enter a song suggestion first.');
-        }
-    }
+    // function sendSuggestion() {
+    //     const suggestion = document.getElementById('songSuggestion').value.trim();
+    //     if (suggestion) {
+    //         const subject = 'Song Suggestion from Choir Member';
+    //         const body = `Hi Mark,\n\nI'd like to suggest this song for our choir:\n\n${suggestion}\n\nThanks!\n`;
+    //         const mailtoLink = `mailto:memery1446@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    //         window.location.href = mailtoLink;
+    //
+    //         // Clear the input
+    //         document.getElementById('songSuggestion').value = '';
+    //     } else {
+    //         alert('Please enter a song suggestion first.');
+    //     }
+    // }
 
     function openSinglePDF(pdfPath, audioPath, title) {
         // Setup single audio track

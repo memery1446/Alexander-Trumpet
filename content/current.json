@@ -1,76 +1,169 @@
 {
-  "serviceDate": "2025-09-21",
   "headerNotes": [
-    "Wednesday after Church - Singing Circle",
-    "Sunday 10:15AM - All, Check-In/Warm Up",
-    "Sunday 4:30-5:45PM - Choir Practice",
-    "ALL ARE WELCOME TO JOIN IN ANY PART OF THE ABOVE SCHEDULE"
+    "Work on each exercise until you can send me a voice-memo playing it the same way.",
+    "Then I'll make the next exercise modal for that section of Arbans,",
+    "or record the next metronome level.",
+    "For now, all exercises are at metronome = 96"
   ],
   "order": [
-    "CALL TO WORSHIP - I Sing the Mighty Power of God",
-    "Shout to the North",
-    "Indescribable",
-    "Shout to the Lord",
-    "OFFERTORY: The Heart of Worship",
-    "CHOIR: Shoutin' Time",
-    "INVITATION: O How He Loves You and Me"
+    "Exercise - pg. 13 No. 11",
+    "Exercise - pg. 14 No. 15",
+    "Exercise - pg. 17 No. 28",
+    "Medicine Chest - pg. 24 No. 8",
+    "Medicine Chest - pg. 26 No. 13",
+    "Medicine Chest - pg. 28 No. 19",
+    "Medicine Chest - pg. 30 No. 24",
+    "Medicine Chest - pg. 32 No. 28",
+    "Lip Trills/Slurs - pg. 44 No. 22",
+    "Chromatic Scale - pg. 76 No. 1",
+    "Triple Tonguing - pg. 155 No. 1",
+    "Triple Tonguing - pg. 155 No. 5",
+    "Triple Tonguing - pg. 157 No. 11",
+    "Double Tonguing - pg. 175 No. 77",
+    "Double Tonguing - pg. 175 No. 80",
+    "Robin Adair - pg. 191 No. 1"
   ],
   "songs": [
     {
-      "title": "I SING THE MIGHTY POWER OF GOD",
-      "pdf": "sheet-music/1-I-Sing-the-Mighty-Power-of-God.pdf",
+      "title": "Exercise - pg. 13 No. 11",
+      "pdf": "sheet-music/A1.pdf",
       "tracks": [
-        {"name": "MELODY", "src": "audio/I.Sing.the.Mighty.Power.of.God.mp3"},
-        {"name": "ALTO", "src": "audio/I.Sing.the.Mighty.Power.of.God.ALTO.mp3"},
-        {"name": "TENOR", "src": "audio/I.Sing.the.Mighty.TENOR.mp3"}
+        {"name": "WITH MARK", "src": "audio/A1.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A1M.mp3"}
+
       ]
     },
     {
-      "title": "SHOUT TO THE NORTH",
-      "pdf": "sheet-music/2-Shout-to-the-North.pdf",
+      "title": "Exercise - pg. 14 No. 15",
+      "pdf": "sheet-music/A2.pdf",
       "tracks": [
-        {"name": "MELODY", "src": "audio/shout.north.mp3"},
-        {"name": "ALTO", "src": "audio/shout.to.the.north.ALTO.mp3"}
+        {"name": "WITH MARK", "src": "audio/A2.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A2M.mp3"}
+
       ]
     },
     {
-      "title": "INDESCRIBABLE",
-      "pdf": "sheet-music/3-Indescribable.pdf",
+      "title": "Exercise - pg. 17 No. 28",
+      "pdf": "sheet-music/A3.pdf",
       "tracks": [
-        {"name": "MELODY", "src": "audio/Indescribable.mp3"}
+        {"name": "WITH MARK", "src": "audio/A3.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A3M.mp3"}
+
       ]
     },
     {
-      "title": "SHOUT TO THE LORD",
-      "pdf": "sheet-music/4-Shout-to-the-Lord.pdf",
+      "title": "Medicine Chest - pg. 24 No. 8",
+      "pdf": "sheet-music/A4.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A4.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A4M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Medicine Chest - pg. 26 No. 13",
+      "pdf": "sheet-music/A5.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A5.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A5M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Medicine Chest - pg. 28 No. 19",
+      "pdf": "sheet-music/A6.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A6.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A6M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Medicine Chest - pg. 30 No. 24",
+      "pdf": "sheet-music/A7.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A7.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A7M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Medicine Chest - pg. 32 No. 28",
+      "pdf": "sheet-music/A8.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A8.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A8M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Lip Trills/Slurs - pg. 44 No. 22",
+      "pdf": "sheet-music/A9.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A10.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A10M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Chromatic Scale - pg. 76 No. 1",
+      "pdf": "sheet-music/A11.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A11.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A11M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Triple T - pg. 155 No. 1",
+      "pdf": "sheet-music/A12.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A12.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A12M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Triple T - pg. 155 No. 5",
+      "pdf": "sheet-music/A12.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A13.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A13M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Triple T - pg. 157 No. 11",
+      "pdf": "sheet-music/A14.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A14.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A14M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Double T pg. 175 No. 77",
+      "pdf": "sheet-music/A17.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A17.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A17M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Double T pg. 175 No. 80",
+      "pdf": "sheet-music/A17.pdf",
+      "tracks": [
+        {"name": "WITH MARK", "src": "audio/A18.mp3"},
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A18M.mp3"}
+
+      ]
+    },
+    {
+      "title": "Robin Adair",
+      "pdf": "sheet-music/A19.pdf",
       "single": {
-        "audio": "audio/Shout.to.the.Lord.mp3",
-        "label": "Sheet music and audio"
-      }
-    },
-    {
-      "title": "THE HEART OF WORSHIP",
-      "pdf": "sheet-music/5-The-Heart-of-Worship.pdf",
-      "tracks": [
-        {"name": "MELODY", "src": "audio/Heart.of.worship.mp3"},
-        {"name": "ALTO", "src": "audio/heart.of.worship.alto.mp3"}
-      ]
-    },
-    {
-      "title": "SHOUTIN TIME",
-      "pdf": "sheet-music/6-Shoutin-Time.pdf",
-      "tracks": [
-        {"name": "MELODY", "src": "audio/shoutin.final2.mp3"},
-        {"name": "ALTO", "src": "audio/shoutin.alto2.mp3"},
-        {"name": "TENOR", "src": "audio/shoutin.tenor2.mp3"},
-        {"name": "BASS", "src": "audio/shoutin.bass2.mp3"}
-      ]
-    },
-    {
-      "title": "O HOW HE LOVES YOU AND ME",
-      "pdf": "sheet-music/7-Oh-How-He-Loves-You-and-Me.pdf",
-      "single": {
-        "audio": "audio/O.How.He.Loves.You.and.Me.mp3",
+        "audio": "audio/A19.mp3",
         "label": "Sheet music and audio"
       }
     }
