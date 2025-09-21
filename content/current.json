@@ -29,7 +29,7 @@
       "pdf": "sheet-music/A1.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A1.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A1M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A1M.mp3"}
 
       ]
     },
@@ -38,7 +38,7 @@
       "pdf": "sheet-music/A2.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A2.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A2M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A2M.mp3"}
 
       ]
     },
@@ -47,7 +47,7 @@
       "pdf": "sheet-music/A3.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A3.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A3M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A3M.mp3"}
 
       ]
     },
@@ -56,7 +56,7 @@
       "pdf": "sheet-music/A4.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A4.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A4M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A4M.mp3"}
 
       ]
     },
@@ -65,7 +65,7 @@
       "pdf": "sheet-music/A5.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A5.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A5M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A5M.mp3"}
 
       ]
     },
@@ -74,7 +74,7 @@
       "pdf": "sheet-music/A6.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A6.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A6M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A6M.mp3"}
 
       ]
     },
@@ -83,7 +83,7 @@
       "pdf": "sheet-music/A7.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A7.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A7M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A7M.mp3"}
 
       ]
     },
@@ -92,7 +92,7 @@
       "pdf": "sheet-music/A8.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A8.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A8M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A8M.mp3"}
 
       ]
     },
@@ -101,7 +101,7 @@
       "pdf": "sheet-music/A9.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A10.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A10M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A10M.mp3"}
 
       ]
     },
@@ -110,7 +110,7 @@
       "pdf": "sheet-music/A11.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A11.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A11M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A11M.mp3"}
 
       ]
     },
@@ -119,7 +119,7 @@
       "pdf": "sheet-music/A12.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A12.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A12M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A12M.mp3"}
 
       ]
     },
@@ -128,7 +128,7 @@
       "pdf": "sheet-music/A12.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A13.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A13M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A13M.mp3"}
 
       ]
     },
@@ -137,7 +137,7 @@
       "pdf": "sheet-music/A14.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A14.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A14M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A14M.mp3"}
 
       ]
     },
