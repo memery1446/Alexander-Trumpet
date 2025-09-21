@@ -682,16 +682,7 @@
 
     function updateSectionTitle() {
         const sectionTitle = document.getElementById('sectionTitle');
-        // Parse date as local time to avoid timezone issues
-        const [year, month, day] = currentContent.serviceDate.split('-');
-        const date = new Date(year, month - 1, day); // month is 0-indexed
-        const formattedDate = date.toLocaleDateString('en-US', {
-            weekday: 'long',
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-        });
-        sectionTitle.textContent = `🎵 Songs for ${formattedDate}`;
+        sectionTitle.textContent = '🎺 Trumpet Exercises';
     }
 
     function updateSongOrder() {
