@@ -146,7 +146,7 @@
       "pdf": "sheet-music/A17.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A17.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A17M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A17M.mp3"}
 
       ]
     },
@@ -155,7 +155,7 @@
       "pdf": "sheet-music/A17.pdf",
       "tracks": [
         {"name": "WITH MARK", "src": "audio/A18.mp3"},
-        {"name": "METRONOME 4-BEAT COUNT IN", "src": "A18M.mp3"}
+        {"name": "METRONOME 4-BEAT COUNT IN", "src": "audio/A18M.mp3"}
 
       ]
     },
