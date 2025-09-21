@@ -594,7 +594,7 @@
         <span class="close" onclick="closeModal()">&times;</span>
 
         <div class="audio-controls">
-            <h3>🎵 Sing-Along</h3>
+            <h3>🎵 Play-Along</h3>
             <div id="voiceSelector"></div>
             <audio id="modalAudioPlayer" controls preload="metadata">
                 <source id="modalAudioSource" src="" type="audio/mpeg">
@@ -733,7 +733,7 @@
                 t.name.toLowerCase().includes('bass'))) {
                 button.textContent = '📄 Sheet music with all parts';
             } else {
-                button.textContent = '📄 Sheet music with MELODY and HARMONY';
+                button.textContent = '📄Press to see music, play with Mark, or just with metronome';
             }
 
             // Use data attributes instead of onclick for better reliability
